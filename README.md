@@ -24,13 +24,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rogerzs&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+
+
+ ### Main skills:
+![Google Cloud](https://user-images.githubusercontent.com/56163805/224330001-c7b15877-a8bf-4fb8-aea7-2b0ee1fa062d.png)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://user-images.githubusercontent.com/56163805/224328840-1ec9d102-ba58-4317-ba3b-cb137d43517b.png)
+![MySql](https://user-images.githubusercontent.com/56163805/224329834-8a57bcc9-445f-4834-81ec-13bab9bc9974.png)
+![Docker](https://user-images.githubusercontent.com/56163805/224330400-fd95db19-bc1d-4b29-bf2e-dddf883cc051.png)
+
+### Learning:
+![Kubernetes](https://user-images.githubusercontent.com/56163805/224330573-e2c1b260-973f-4f7c-babf-1d6a03fe8e75.png)
+![Jenkins](https://user-images.githubusercontent.com/56163805/224330664-b5cd1252-75b0-42ad-bb06-e3820641c12c.png)
+![Ansible](https://user-images.githubusercontent.com/56163805/224330734-40f80d17-3c16-43f9-81ee-21357e31ec33.png)
+![Prometheus](https://user-images.githubusercontent.com/56163805/224330800-2dbee290-ad2b-439e-8e01-acbea3012aae.png)
+
+
+
+
+
+
+
+
 <!-- TECNOLOGIAS -->
 <div align="center">
 
-![Python](https://user-images.githubusercontent.com/56163805/224214793-2a4701c9-9225-4774-b529-689ab4ea775d.png)
-<img src="https://user-images.githubusercontent.com/56163805/224216238-2a0ab367-3ee4-44cb-aa27-806f3ff94188.png" width=28 height=25>
-<img src="https://user-images.githubusercontent.com/56163805/224215360-91090f23-0ed6-4cc2-82e6-edf02022457b.png" width=28 height=28>
-<img src="https://user-images.githubusercontent.com/56163805/224216456-e0d7c8e1-da60-4ecc-879e-72d4edc88b17.png" width=28 height=28>
+
+
+
+
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
