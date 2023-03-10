@@ -7,9 +7,9 @@ Atualmente estou cada vez mais cativado pelas áreas de DevOps, Qualidade de Dad
 <br>
 
 <!-- GITHUB STATUS -->
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerzs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=500px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerzs&layout=compact&langs_count=10&theme=midnight-purple&card_width=250px"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerzs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=100px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerzs&layout=compact&langs_count=10&theme=midnight-purple&card_width=100px"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
