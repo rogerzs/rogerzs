@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A2C5EB&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Rogerland+🌎;Data+Engineer+at+Méliuz+;Learning+loading+.+.+.)](https://git.io/typing-svg)
 
+<br>
+
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerzs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=250px"/>
