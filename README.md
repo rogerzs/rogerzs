@@ -24,7 +24,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rogerzs&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+<br>
 
  ### Main skills:
 ![Google Cloud](https://user-images.githubusercontent.com/56163805/224330001-c7b15877-a8bf-4fb8-aea7-2b0ee1fa062d.png)
@@ -45,6 +45,8 @@
 
 
 
+<br>
+<br>
 
 <!-- TECNOLOGIAS -->
 <div align="center">
