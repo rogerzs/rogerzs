@@ -1,20 +1,26 @@
-### Bem vindo a Rogerland 🌎 :blush: 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D22C7&height=120&section=header"/>
 
-Olá, tudo bem? Meu nome é Rogério Ferreira dos Santos, mas pode me chamar de Roger :) Sou Engenheiro de Dados há pouco mais de 2 anos, e estou sempre em busca de novos conhecimentos.
 
-Atualmente estou cada vez mais cativado pelas áreas de DevOps, Qualidade de Dados e Catálogo de Dados, afinal não basta extrair, transformar e disponilizar dados para uma empresa, é necessário ensiná-la a usá-los, e para isso serve o catálogo de dados.
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A2C5EB&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+Rogerland+🌎;Data+Engineer+at+Méliuz+;Learning+loading+.+.+.)](https://git.io/typing-svg)
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerzs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=100px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerzs&layout=compact&langs_count=10&theme=midnight-purple&card_width=100px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerzs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&card_width=500px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerzs&layout=compact&langs_count=10&theme=midnight-purple&card_width=250px"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
 <br>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rogerzs&bg_color=0d1117&color=6D22C7&line=6D22C7&point=B35512&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rogerzs&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <!-- TECNOLOGIAS -->
 <div align="center">
