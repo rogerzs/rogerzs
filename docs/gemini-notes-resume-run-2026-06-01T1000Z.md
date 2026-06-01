@@ -1,0 +1,18 @@
+# Gemini notes resume automation — run log
+
+**Trigger:** cron at 2026-06-01T10:00:56Z  
+**Search window (last hour):** 2026-06-01 09:00:56–10:00:56 UTC · 2026-06-01 06:00:56–07:00:56 BRT  
+**Target Google Doc (paste destination):** https://docs.google.com/document/d/1fY7UTQHJ4q8e5nezqH9_41tE9poreAywjZsFmIXzl1U/edit?tab=t.0
+
+## What was checked
+
+1. **Email (Gemini notes)** — Not available: no Gmail MCP or API credentials; inbox could not be read for messages from Gemini Notes / `notes@google.com`.
+2. **Slack** — Searched public/private channels and DMs (`after:1780304400`, `before:1780308056`) for: `gemini notes`, `Notes by Gemini`, `meet.google.com notes`, `google meet transcript`, `Take notes`, `notes@google`. Only unrelated hits in `#csi-celula-gemini` (daily report bot). `#teste-notas_daily_riskfinance` and user DMs had no messages in the window.
+3. **Atlassian (Rovo search)** — Generic Gemini/meeting-notes Confluence pages only; nothing tied to a new note in this hour.
+4. **Google Docs** — Target summary doc export requires Google sign-in; cannot read or append programmatically.
+
+## Outcome
+
+**No Gemini note documents were resumed.** The Google Doc was not updated. **No Slack DM** was sent (per workflow: only notify when at least one note is summarized).
+
+**Estimated tokens (this run):** ~15,000 — environment does not expose exact API usage.
